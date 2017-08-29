@@ -244,3 +244,7 @@ endif
 #OTA
  PRODUCT_PACKAGES += \
          vertexOTA
+
+# Azaidi Launcher3
+PRODUCT_PACKAGES += \
+    Launcher3-azaidi
