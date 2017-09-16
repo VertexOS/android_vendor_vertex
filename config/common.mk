@@ -2,7 +2,7 @@
 # VertexOS Version
 ####################
 
-PRODUCT_VERSION = v3.5
+PRODUCT_VERSION = v3.6
 CODE_NAME = Carbide
 
 # Unofficial by default unless defined
